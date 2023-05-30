@@ -112,12 +112,12 @@ To run this the user should be in the build folder and input the following into 
 Results
 ------------------
 Running the gilder.txt file found in PHAS0100Assignment1/Testing/Data/glider.txt for 10 iterations using the godSimulator application:
-![Getting Started](Game of life/21175501/PHAS0100Assignment1/Results/images/glider.png)
+![Getting Started](Results/images/glider.png)
 
 Running a 7x7 grid for 10 iterations with 15 initial cells alive:
-![Getting Started](Game of life/21175501/PHAS0100Assignment1/Results/images/7x7.png)
+![Getting Started](Results/images/7x7.png)
 
 Running a 4x4 grid to find different still lifes, here are four examples:
-![Getting Started](Game of life/21175501/PHAS0100Assignment1/Results/images/4x4.png)
+![Getting Started](Results/images/4x4.png)
 
 Running the golStillLife app may times there have been 12 unique still lifes identified for a upto a 4x4 simulation.
